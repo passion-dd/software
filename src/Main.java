@@ -5,7 +5,5 @@ public class Main {
         // 当文本光标位于高亮显示的文本处时按 Alt+Enter，
         // 可查看 IntelliJ IDEA 对于如何修正该问题的建议。
         System.out.println("Hello and welcome!");
-
-        // 按 Shift+F10 或点击装订区域中的绿色箭头按钮以运行脚本
     }
 }
